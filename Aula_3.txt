@@ -1,0 +1,144 @@
+    1  c:
+    2  clear
+    3  pwd
+    4  ls
+    5  cd Documentos/
+    6  ls
+    7  cd ..
+    8  pwd
+    9  cd Área\ de\ Trabalho/
+   10  mkdir NovaPasta
+   11  ls
+   12  ls arquivo.txt  NovaPasta/
+   13  pwd
+   14  ls
+   15  cd NovaPasta/
+   16  mkdir novoarquio.txt
+   17  ls
+   18  cat> texto.txt
+   19  pwd
+   20  ls
+   21  cd Área\ de\ Trabalho/
+   22  ls
+   23  cd NovaPasta/
+   24  ls
+   25  >nano texto.txt 
+   26  >cat texto.txt 
+   27  vi texto.txt 
+   28  ls
+   29  cd Área\ de\ Trabalho/
+   30  ls
+   31  cd NovaPasta
+   32  ls
+   33  vi texto.txt 
+   34  pwd
+   35  ls
+   36  cd Àrea de Trabalho
+   37  ls
+   38  cd Área\ de\ Trabalho/
+   39  ls
+   40  cd NovaPasta/
+   41  ls
+   42  vi texto.txt 
+   43  ls
+   44  cd Área\ de\ Trabalho/
+   45  ls
+   46  cd NovaPasta/
+   47  ls
+   48  vi texto.txt 
+   49  pwd
+   50  cd
+   51  cd ..
+   52  git status
+   53  apt-get update
+   54  sudo apt-get upgrade
+   55  sudo apt-get install git
+   56  status
+   57  sudo apt-get update
+   58  pdw
+   59  cd ..
+   60  ls
+   61  cd toti07/
+   62  ls
+   63  cd Downloads/
+   64  ls
+   65  sudo apt-get update
+   66  sudo ap-get install git-2.31.0.tar.gz
+   67  cd ..
+   68  ls
+   69  git --version
+   70  sudo apt-get upgrade
+   71  q
+   72  su
+   73  git config --global luisquesada26
+   74  git config --global quesadaluis1987@gmail.com
+   75  ls
+   76  ls -a
+   77  pwd
+   78  ls
+   79  cd ..
+   80  cd Imagens
+   81  cd
+   82  ls
+   83  cd Imagens/
+   84  cd ..
+   85  mkdir Comandos
+   86  ls
+   87  cd Comandos/
+   88  touch texto.tst
+   89  ls
+   90  mv texto.tst texto.txt
+   91  ls
+   92  cat Hola como estas > texto.txt 
+   93  cat Hola_como_estas_? > texto.txt 
+   94  echo 'Hola como estas?' > texto.txt 
+   95  cat texto.txt 
+   96  clear
+   97  cd ;;
+   98  cd ..
+   99  clear
+  100  git config --global user.name 'Luis Quesada'
+  101  git congig --global user.mail 'quesadaluis1987@gmail.com'
+  102  git config --global user.mail 'quesadaluis1987@gmail.com'
+  103  git config user.name
+  104  git config user.mail
+  105  ls
+  106  cd Área\ de\ Trabalho/
+  107  mkdir Curso_Git
+  108  ls
+  109  cd Curso_Git/
+  110  git config user.name
+  111  git init 
+  112  git status
+  113  echo '#Aprendiendo usar Git' > readme.md
+  114  git status
+  115  git add readme.md 
+  116  git status
+  117  git commit -m 'Commit inicial'
+  118  git config --global user.name
+  119  git commit -m 'Commit inicial'
+  120  git config --global user.mail
+  121  git commit -m 'Commit inicial'
+  122  git config --global user.mail
+  123  git config --global user.mail 'quesadaluis1987@gmail.com'
+  124  git config --global user.mail
+  125  git commit -m 'Commit inicial'
+  126  git config --global user.mail "quesadaluis1987@gmail.com"
+  127* git config --global user.email
+  128  git commit -m 'Commit inicial'
+  129  git config --global user.email 'quesadaluis1987@gmail.com'
+  130  git config --global user.email
+  131  git commit -m 'Commit inicial'
+  132  git status
+  133  echo '##Aula 1' >> readme.md 
+  134  git status
+  135  echo 'Luis Quesada' > participantes.txt 
+  136  git status
+  137  git add.
+  138  git add .
+  139  git status
+  140  git restore --staged participantes.txt
+  141  git restore --staged .
+  142  git status
+  143  history
+  144  history > Aula_3.txt
